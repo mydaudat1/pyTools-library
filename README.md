@@ -1,2 +1,2 @@
 # pyTools-library
-Helps you program easier 
+Make programming easier 
